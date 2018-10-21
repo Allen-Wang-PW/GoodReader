@@ -1,0 +1,87 @@
+{
+	"summarization": "Journalist Jamal Khashoggi died after a fight in the Saudi consulate in Istanbul, the country's state TV reported quoting an initial probe.\nUS President Donald Trump said what happened was \"unacceptable\" but Saudi Arabia was a \"great ally\".\nSaudi King Salman has also reportedly ordered the formation of a ministerial committee, headed by Crown Prince Mohammed, to restructure the intelligence services.\nReports on Saudi state media followed shortly after King Salman spoke on the phone to Turkey's President Recep Tayyip Erdogan about the case.\nSaudi Arabia reportedly acted on information provided by Turkish authorities as part of its inquiry, investigating a number of suspects.",
+	"entities": [{
+		"salience": 0.20017704367637634,
+		"type": "PERSON",
+		"name": "Jamal Khashoggi",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Jamal_Khashoggi"
+	}, {
+		"salience": 0.1562441736459732,
+		"type": "PERSON",
+		"name": "Donald Trump",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Trump"
+	}, {
+		"salience": 0.13403667509555817,
+		"type": "PERSON",
+		"name": "consulate",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.056597430258989334,
+		"type": "LOCATION",
+		"name": "Saudi",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Saudi_Arabia"
+	}, {
+		"salience": 0.04247311130166054,
+		"type": "LOCATION",
+		"name": "country",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.040248215198516846,
+		"type": "PERSON",
+		"name": "Ahmad al-Assiri",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.03738868609070778,
+		"type": "EVENT",
+		"name": "fight",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.03738868609070778,
+		"type": "OTHER",
+		"name": "probe",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.028630632907152176,
+		"type": "PERSON",
+		"name": "Mohammed Bin Salman",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_bin_Salman"
+	}, {
+		"salience": 0.027941027656197548,
+		"type": "ORGANIZATION",
+		"name": "state TV",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.017972253262996674,
+		"type": "OTHER",
+		"name": "time",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.015384964644908905,
+		"type": "PERSON",
+		"name": "Saud al-Qahtani",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.015125181525945663,
+		"type": "LOCATION",
+		"name": "Istanbul",
+		"wikipedia_url": "https://en.wikipedia.org/wiki/Istanbul"
+	}, {
+		"salience": 0.01052651833742857,
+		"type": "OTHER",
+		"name": "number",
+		"wikipedia_url": "-"
+	}, {
+		"salience": 0.008029916323721409,
+		"type": "LOCATION",
+		"name": "kingdom",
+		"wikipedia_url": "-"
+	}],
+	"topics": [{
+		"confidence": 0.8100000023841858,
+		"name": "News"
+	}, {
+		"confidence": 0.6600000262260437,
+		"name": "Law & Government - Government"
+	}],
+	"keywords": ["Jamal Khashoggi", "Donald Trump", "consulate", "Saudi", "country", "fight", "probe", "state TV", "Istanbul", "number"]
+}

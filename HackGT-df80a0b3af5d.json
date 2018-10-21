@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "copper-poet-100206",
+  "private_key_id": "df80a0b3af5dd14617c2a5f34226a4c43f6eeb78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdEzqkdkCRmixx\nFwUXG2QkBzaVwodm3EfgHqCqE9KFB6SYwwj2OfjmIhpw7v/4hnKKPP0qArGcRZzQ\nxtjpuMIpY7hdIGHy5FzitWN9wTYed6jAh3Vp79LIER4PpTRydAYBKEHXSv6QWZ1H\n5v+aOaKqjvG/QvVUqkrsE6hJ096kGXe0gw0aLfN1W2VUbd2AVxQD3A3UZ2K/EhwH\nw0qAexbaENC8C+5igxMOeeE7dNRBGpiNlCBNlk5PHFa5XkN740E7wh0lii0JUEzQ\n/ar5ZZA7/MQQNDe9/WHjTN9dD6573LLr2TUXO8ttpQGmQVW2ThpuFFOaq6nsApaa\nMNrWLvsfAgMBAAECggEACEn3gmpEc8V7HbtKooWont1hGVR4ADD96Rb+WFUPTAgM\n67O7/INt2FICBYQRQyb9h21EEaZl7wovgMm48plZfq73WT+e/It4CtMe4OVR+HYz\nF565rTsd85QgXDBy2uvpMHN20rH+dbiiz1l78dYS7OBHFySDyXwaWX7TXlyKsCtb\nsNMgU3ALofPoJsDGZiuTObXcN0jVx/t4HzpU81luhPkptqIvZDx+6kd83/+Z6I4o\nYIvLwheFG0uK4IudBgW5TSwTTBNeVRIllReMgW5eQEeLNCdzz6kur5pXJBqR1n+O\nfE/RP4IQZSdAiyQTVJfpt3wDmLfBjLBfVqrBADsNYQKBgQD6zR1Eu5ruCv8l5syJ\n+tYpDT9FFIbKysNMjnV63juEXUrwoFtKhwSD79Ql95AHgTbFtw5IYEnPujeK9JpN\npfxIjga07HheJkI5wiXoxxK1gClFyeijkWcqcCBakEWJgfe62HcdCu9WbLfW7gis\nexiSW3+IBodkGpmQB/o1v2zFvwKBgQDhqF8/AfXDvPMCBQsbkl45+ZUKK6YVYqdT\nhgYU8FmfPZ6Pa818jQh1Cmwj8kO4QH8Nk15g8rOXOwaK6R3eCN+wANXMASiNnkJD\na86n9+Zgc2JFuIUQDxqT00ZV19lRi4KHG7goGJtmSViobn/1P3ljaAPlu5Skv4g6\n7Z6EKMzioQKBgQCrYd7OSSTl5b3VOJIs96vBAbxqiExT55rthavh+lrRaK79H5dC\npmD/h7OA/lr9xd6X3S91ZdcKjEXIPr3ysapkKimLGMxoCdzXe0RMfTzbqmiJuB+x\nJntJFLYHLO9Xt+iBVcqPnhlPBZva02457yQrXzsWyN9cGJE3Szw/3j+GIQKBgQDP\nJ2VAj0kRRq0DBqQ6zHRp3l/etVFDQox/FYMRx89Oax/bY8iA9Wt1HntFyIo4ZCT+\nznGOqF8Ljukjrnt3sEfA6BNcsxeKYmVMRXSyJ9Y6ZtIpVQn6QxNP710bQwrCXEMY\nSu8VB/novZ6BCOe4uWtzQTKKvFfpodaq2iZyBo6H4QKBgQDKxmsfe6bkPWK5Z7Be\n3BDsg4TEPudD38OnGx7JS3c2cqkrQ6qvb5yajR6ZEs5rjFyjAL5NIbq8XHcN4chC\n3BnJU18VQ4KLl/uPyr88TAn1CQ8RgXmIfgwY49zRTlBUfMnGu9KIhAsZi4wmDkIn\naoscr26u+kc9vKwDDTH9a6IyFw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-729wwvpiyfbk@copper-poet-100206.iam.gserviceaccount.com",
+  "client_id": "110768529379343206789",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-729wwvpiyfbk%40copper-poet-100206.iam.gserviceaccount.com"
+}
